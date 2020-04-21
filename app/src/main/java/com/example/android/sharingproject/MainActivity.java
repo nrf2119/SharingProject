@@ -15,5 +15,5 @@ public class MainActivity extends AppCompatActivity {
 
     //adding a second comment!
 
-  //i deleted something of yours
+  //i deleted something of yours and now it's beautiful!
 }
